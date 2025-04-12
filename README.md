@@ -6,6 +6,7 @@ The code will not run without the dependencies, first install the required packa
 (Although from what I remembered, replit automatically installed the required packages for me)
 
 The only thing you have to configure is the TOKEN: once in the config.json file, do not replace "TOKEN" with the actual token of the bot (or your bot might get hacked), instead create a secret. It works like a reference, the reference doesn't have to be TOKEN but you should just leave it this way.
+
 Steps:
 
 Click on the 4 squares on the left edge, if you scroll the bar down a bit you should see a lock, next to it is written "Secrets"; click on it and create a secret (for your token).
