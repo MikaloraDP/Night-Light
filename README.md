@@ -1,4 +1,4 @@
-WARNING: I have coded this bot years ago for fun, I will not take responsibility on the way or the purpose you use this bot.
+**WARNING: I have coded this bot years ago for fun, I will not take responsibility on the way or the purpose you use this bot.**
 
 The code of this bot may not be supported by VSCode, so if you want the bot to work you should run it on replit.com. 
 
