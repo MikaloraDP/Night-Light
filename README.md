@@ -14,4 +14,6 @@ Click on the 4 squares on the left edge, if you scroll the bar down a bit you sh
 ![image](https://github.com/user-attachments/assets/d0d9bff1-6514-4fde-aeb0-81f4daa0523a)
 ![image](https://github.com/user-attachments/assets/ed526b10-ed80-4cb7-853d-ba6177c7ea7b)
 
+**(Make sure to update the app though)**
+
 
